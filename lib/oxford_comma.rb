@@ -1,3 +1,3 @@
 def oxford_comma(array)
-["fiddlehead,okra,kohlrabi"].split(",")
+["kiwi,starfruit,durian"].split(",")
 end
